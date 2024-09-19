@@ -1,0 +1,576 @@
+[{
+  "_id": {
+    "$oid": "66eabbfb6c8ea8e66e86f71c"
+  },
+  "PlantName": "Turmeric (Haldi)",
+  "ScientificName": "Curcuma longa",
+  "Family": "Zingiberaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Rich, well-drained soil, full sun",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Rhizome",
+  "Description": "Thick, orange-yellow underground stem",
+  "Disease": "Arthritis",
+  "DiseaseDescription": "Inflammation of joints",
+  "CureMethod": "Contains curcumin, which reduces inflammation and pain in joints.",
+  "Price": "₹800 - ₹1,200 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabc9d6c8ea8e66e86f71e"
+  },
+  "PlantName": "Turmeric (Haldi)",
+  "ScientificName": "Curcuma longa",
+  "Family": "Zingiberaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Rich, well-drained soil, full sun",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Leaf",
+  "Description": "Green, lance-shaped leaves",
+  "Disease": "Skin Infections",
+  "DiseaseDescription": "Infections of the skin",
+  "CureMethod": "Contains antimicrobial compounds that help reduce skin infections.",
+  "Price": "₹400 - ₹600 per 100g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabcb16c8ea8e66e86f720"
+  },
+  "PlantName": "Turmeric (Haldi)",
+  "ScientificName": "Curcuma longa",
+  "Family": "Zingiberaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Rich, well-drained soil, full sun",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Flower",
+  "Description": "Yellow, funnel-shaped flowers",
+  "Disease": "Digestive Disorders",
+  "DiseaseDescription": "Problems related to digestion",
+  "CureMethod": "Flowers have mild digestive benefits and can aid in soothing digestive discomfort.",
+  "Price": "₹500 - ₹700 per 100g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabcee6c8ea8e66e86f722"
+  },
+  "PlantName": "Ginger (Adrak)",
+  "ScientificName": "Zingiber officinale",
+  "Family": "Zingiberaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Rich, well-drained soil, warm climate",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Rhizome",
+  "Description": "Thick, fleshy, and beige-colored stem",
+  "Disease": "Nausea",
+  "DiseaseDescription": "Feeling of unease in the stomach",
+  "CureMethod": "Contains gingerol, which helps in alleviating nausea and promoting digestion.",
+  "Price": "₹300 - ₹500 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabcfb6c8ea8e66e86f724"
+  },
+  "PlantName": "Ginger (Adrak)",
+  "ScientificName": "Zingiber officinale",
+  "Family": "Zingiberaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Rich, well-drained soil, warm climate",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Leaf",
+  "Description": "Narrow, green, elongated leaves",
+  "Disease": "Cough",
+  "DiseaseDescription": "Persistent irritation of the throat",
+  "CureMethod": "Contains anti-inflammatory compounds that help reduce throat irritation.",
+  "Price": "₹150 - ₹250 per 100g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabd056c8ea8e66e86f726"
+  },
+  "PlantName": "Ginger (Adrak)",
+  "ScientificName": "Zingiber officinale",
+  "Family": "Zingiberaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Rich, well-drained soil, warm climate",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Flower",
+  "Description": "Small, yellow-green flowers",
+  "Disease": "Menstrual Cramps",
+  "DiseaseDescription": "Painful sensations during menstruation",
+  "CureMethod": "Flowers have antispasmodic properties that help relieve menstrual cramps.",
+  "Price": "₹600 - ₹800 per 100g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabd436c8ea8e66e86f728"
+  },
+  "PlantName": "Purple Coneflower",
+  "ScientificName": "Echinacea purpurea",
+  "Family": "Asteraceae",
+  "Habitat": "Temperate",
+  "CultivationMethod": "Well-drained soil, full sun",
+  "TemperatureRange": "15°C to 25°C",
+  "PlantPart": "Root",
+  "Description": "Thick, fleshy underground root",
+  "Disease": "Common Cold",
+  "DiseaseDescription": "Viral infection causing respiratory symptoms",
+  "CureMethod": "Contains echinacoside, which boosts the immune system and helps reduce the duration of cold symptoms.",
+  "Price": "₹600 - ₹900 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabdc56c8ea8e66e86f72a"
+  },
+  "PlantName": "Purple Coneflower",
+  "ScientificName": "Echinacea purpurea",
+  "Family": "Asteraceae",
+  "Habitat": "Temperate",
+  "CultivationMethod": "Well-drained soil, full sun",
+  "TemperatureRange": "15°C to 25°C",
+  "PlantPart": "Leaf",
+  "Description": "Lance-shaped, green leaves",
+  "Disease": "Upper Respiratory Infections",
+  "DiseaseDescription": "Infections affecting the upper respiratory tract",
+  "CureMethod": "Leaves have immune-boosting properties that help the body fight off infections.",
+  "Price": "₹400 - ₹600 per 100g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabde86c8ea8e66e86f72c"
+  },
+  "PlantName": "Purple Coneflower",
+  "ScientificName": "Echinacea purpurea",
+  "Family": "Asteraceae",
+  "Habitat": "Temperate",
+  "CultivationMethod": "Well-drained soil, full sun",
+  "TemperatureRange": "15°C to 25°C",
+  "PlantPart": "Flower",
+  "Description": "Purple, daisy-like flowers",
+  "Disease": "Wounds",
+  "DiseaseDescription": "Injuries to the skin causing damage or breaks",
+  "CureMethod": "Flowers contain compounds that promote wound healing and reduce inflammation.",
+  "Price": "₹800 - ₹1,200 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabdfd6c8ea8e66e86f72e"
+  },
+  "PlantName": "PepperMint",
+  "ScientificName": "Mentha piperita",
+  "Family": "Lamiaceae",
+  "Habitat": "Temperate",
+  "CultivationMethod": "Moist, well-drained soil, partial shade",
+  "TemperatureRange": "18°C to 24°C",
+  "PlantPart": "Leaf",
+  "Description": "Green, serrated leaves with a strong aroma",
+  "Disease": "Digestive Issues",
+  "DiseaseDescription": "Disorders affecting digestion",
+  "CureMethod": "Contains menthol, which helps relax the muscles in the gastrointestinal tract and reduces symptoms of digestive discomfort.",
+  "Price": "₹1,500 - ₹2,000 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eabe0a6c8ea8e66e86f730"
+  },
+  "PlantName": "PepperMint",
+  "ScientificName": "Mentha piperita",
+  "Family": "Lamiaceae",
+  "Habitat": "Temperate",
+  "CultivationMethod": "Moist, well-drained soil, partial shade",
+  "TemperatureRange": "18°C to 24°C",
+  "PlantPart": "Oil",
+  "Description": "Essential oil extracted from the leaves",
+  "Disease": "Headaches",
+  "DiseaseDescription": "Pain or discomfort in the head",
+  "CureMethod": "Contains menthol and menthone, which act as analgesics to alleviate headache symptoms and improve blood flow.",
+  "Price": "₹4,500 - ₹7,000 per 100ml",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac4906c8ea8e66e86f732"
+  },
+  "PlantName": "PepperMint",
+  "ScientificName": "Mentha piperita",
+  "Family": "Lamiaceae",
+  "Habitat": "Temperate",
+  "CultivationMethod": "Moist, well-drained soil, partial shade",
+  "TemperatureRange": "18°C to 24°C",
+  "PlantPart": "Stem",
+  "Description": "Green, hollow stems",
+  "Disease": "Respiratory Issues",
+  "DiseaseDescription": "Problems affecting the respiratory system",
+  "CureMethod": "Stems have soothing properties that can help ease respiratory issues by acting as a natural expectorant, clearing congestion and promoting easier breathing.",
+  "Price": "₹1,000 - ₹1,500 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac49b6c8ea8e66e86f734"
+  },
+  "PlantName": "Basil (Tulsi)",
+  "ScientificName": "Ocimum sanctum",
+  "Family": "Lamiaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Well-drained soil, full sun",
+  "TemperatureRange": "18°C and 30°C",
+  "PlantPart": "Leaf",
+  "Description": "Green, aromatic, oval-shaped leaves",
+  "Disease": "Stress",
+  "DiseaseDescription": "Mental and emotional strain",
+  "CureMethod": "Contains ursolic acid that helps reduce stress and anxiety by balancing hormone levels.",
+  "Price": "₹600 - ₹800 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac4b16c8ea8e66e86f736"
+  },
+  "PlantName": "Basil (Tulsi)",
+  "ScientificName": "Ocimum sanctum",
+  "Family": "Lamiaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Well-drained soil, full sun",
+  "TemperatureRange": "18°C and 30°C",
+  "PlantPart": "Stem",
+  "Description": "Green, square stems with aromatic scent",
+  "Disease": "Cough",
+  "DiseaseDescription": "Irritation and inflammation in the throat",
+  "CureMethod": "Stems have soothing properties that help alleviate cough by acting as a natural expectorant and reducing throat inflammation.",
+  "Price": "₹400 - ₹600 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac4bf6c8ea8e66e86f738"
+  },
+  "PlantName": "Basil (Tulsi)",
+  "ScientificName": "Ocimum sanctum",
+  "Family": "Lamiaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Well-drained soil, full sun",
+  "TemperatureRange": "18°C and 30°C",
+  "PlantPart": "Flower",
+  "Description": "Small, purple or white flowers",
+  "Disease": "Respiratory Infections",
+  "DiseaseDescription": "Infections affecting the respiratory system",
+  "CureMethod": "Flowers have antimicrobial properties that can help in treating respiratory infections and improving respiratory health.",
+  "Price": "₹500 - ₹700 per 100g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5306c8ea8e66e86f73a"
+  },
+  "PlantName": "Amla (Amalaki)",
+  "ScientificName": "Phyllanthus emblica",
+  "Family": "Phyllanthaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Grows well in sandy, well-drained soil",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Fruit",
+  "Description": "Round, light green, smooth, and has a sour, astringent taste",
+  "Disease": "Diabetes",
+  "DiseaseDescription": "Body struggles to regulate blood sugar due to insulin deficiency or resistance",
+  "CureMethod": "Amla fruit contains vitamin C, polyphenols, and chromium, which help lower blood sugar and manage diabetes.",
+  "Price": "₹100 - ₹300 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5446c8ea8e66e86f73c"
+  },
+  "PlantName": "Gamar",
+  "ScientificName": "Gmelina arborea",
+  "Family": "Lamiaceae",
+  "Habitat": "Tropical regions",
+  "CultivationMethod": "Prefers sandy loam soil",
+  "TemperatureRange": "20°C to 35°C",
+  "PlantPart": "Bark",
+  "Description": "Rough, grayish-brown, deeply fissured, and scaly texture",
+  "Disease": "Coughs",
+  "DiseaseDescription": "Reflex action involving the forceful expulsion of air from the lungs",
+  "CureMethod": "It has expectorant and soothing properties that can help relieve cough and respiratory discomfort.",
+  "Price": "₹200 to ₹600 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5576c8ea8e66e86f73e"
+  },
+  "PlantName": "Gamar",
+  "ScientificName": "Gmelina arborea",
+  "Family": "Lamiaceae",
+  "Habitat": "Tropical regions",
+  "CultivationMethod": "Prefers sandy loam soil",
+  "TemperatureRange": "20°C to 35°C",
+  "PlantPart": "Leaf",
+  "Description": "Large, broad, and ovate to elliptical in shape",
+  "Disease": "Fever",
+  "DiseaseDescription": "A temporary increase in body temperature",
+  "CureMethod": "They have antipyretic properties that can help reduce body temperature and alleviate symptoms associated with fever.",
+  "Price": "₹100 to ₹300 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5686c8ea8e66e86f740"
+  },
+  "PlantName": "Bel",
+  "ScientificName": "Aegle marmelos",
+  "Family": "Rutaceae",
+  "Habitat": "Dry and arid regions",
+  "CultivationMethod": "Grows well in sandy, loamy soils",
+  "TemperatureRange": "20°C to 35°C",
+  "PlantPart": "Fruit",
+  "Description": "Oval, with a hard, woody shell that turns green to yellow or brown when ripe",
+  "Disease": "Digestive disorders",
+  "DiseaseDescription": "Disorders affecting digestion",
+  "CureMethod": "It has astringent properties that can help firm up stools and improve digestive health.",
+  "Price": "₹50 to ₹150 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac57e6c8ea8e66e86f742"
+  },
+  "PlantName": "Bel",
+  "ScientificName": "Aegle marmelos",
+  "Family": "Rutaceae",
+  "Habitat": "Dry and arid regions",
+  "CultivationMethod": "Grows well in sandy, loamy soils",
+  "TemperatureRange": "20°C to 35°C",
+  "PlantPart": "Leaf",
+  "Description": "Ovate to lance-shaped, with a glossy, dark green upper surface",
+  "Disease": "Asthma",
+  "DiseaseDescription": "Difficulty in breathing",
+  "CureMethod": "They have anti-inflammatory and expectorant properties that can help relieve respiratory symptoms and improve lung function.",
+  "Price": "₹100 to ₹300 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5926c8ea8e66e86f744"
+  },
+  "PlantName": "Kuruchi",
+  "ScientificName": "Holarrhena antidysenterica",
+  "Family": "Apocynaceae",
+  "Habitat": "Subtropical regions",
+  "CultivationMethod": "Requires well-drained soil, full sun",
+  "TemperatureRange": "20°C to 35°C",
+  "PlantPart": "Bark",
+  "Description": "Rough, brownish-gray, somewhat fissured with a scaly texture",
+  "Disease": "Dysentery",
+  "DiseaseDescription": "Severe diarrhea with blood and mucus",
+  "CureMethod": "It has antimicrobial and astringent properties that can help reduce inflammation and control the infection in the intestines.",
+  "Price": "₹200 to ₹500 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5a06c8ea8e66e86f746"
+  },
+  "PlantName": "Kuruchi",
+  "ScientificName": "Holarrhena antidysenterica",
+  "Family": "Apocynaceae",
+  "Habitat": "Subtropical regions",
+  "CultivationMethod": "Requires well-drained soil, full sun",
+  "TemperatureRange": "20°C to 35°C",
+  "PlantPart": "Root",
+  "Description": "Thick, woody, and cylindrical in shape",
+  "Disease": "Chronic Diarrhea",
+  "DiseaseDescription": "Long-term diarrhea",
+  "CureMethod": "Their astringent properties help in reducing bowel movement frequency and improving stool consistency.",
+  "Price": "₹300 to ₹700 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5b56c8ea8e66e86f748"
+  },
+  "PlantName": "Haritaki",
+  "ScientificName": "Terminalia chebula",
+  "Family": "Combretaceae",
+  "Habitat": "Tropical",
+  "CultivationMethod": "Prefers well-drained, fertile soil",
+  "TemperatureRange": "15°C to 30°C",
+  "PlantPart": "Fruit",
+  "Description": "small, brown, wrinkled, and oval-shaped drupe with a hard seed inside",
+  "Disease": "Constipation",
+  "DiseaseDescription": "infrequent bowel movements, difficulty passing stools, and a feeling of incomplete evacuation",
+  "CureMethod": "Haritaki fruit acts as a natural laxative, promoting bowel movements, and improving digestive health",
+  "Price": "₹200 - ₹600 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5c16c8ea8e66e86f74a"
+  },
+  "PlantName": "Arjuna",
+  "ScientificName": "Terminalia arjuna",
+  "Family": "Combretaceae",
+  "Habitat": "Riverbanks, forests",
+  "CultivationMethod": "Thrives in loamy soil with good moisture",
+  "TemperatureRange": "18°C to 30°C",
+  "PlantPart": "Bark",
+  "Description": "light gray to reddish-brown, with a rough, fibrous texture and deep fissures",
+  "Disease": "Cardiovascular diseases",
+  "DiseaseDescription": "occurs when blood flow to a part of the heart is blocked for an extended period",
+  "CureMethod": "improves cardiac function, and reduces cholesterol levels through its antioxidant and anti-inflammatory properties",
+  "Price": "₹300 - ₹800 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5cf6c8ea8e66e86f74c"
+  },
+  "PlantName": "Ashoka",
+  "ScientificName": "Saraca asoca",
+  "Family": "Fabaceae",
+  "Habitat": "Plains and lower Himalayas",
+  "CultivationMethod": "Grows in deep, well-drained soil",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Bark",
+  "Description": "reddish-brown, smooth, and slightly rough with longitudinal cracks",
+  "Disease": "Gynecological disorders",
+  "DiseaseDescription": "medical conditions affecting the female reproductive system",
+  "CureMethod": "Balance menstrual cycles through its astringent and anti-inflammatory properties",
+  "Price": "₹500 to ₹1,000 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5dd6c8ea8e66e86f74e"
+  },
+  "PlantName": "Ashoka",
+  "ScientificName": "Saraca asoca",
+  "Family": "Fabaceae",
+  "Habitat": "Plains and lower Himalayas",
+  "CultivationMethod": "Grows in deep, well-drained soil",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Leaf",
+  "Description": "glossy dark green, and pinnately compound",
+  "Disease": "Dysmenorrhea",
+  "DiseaseDescription": "Painful menstruation",
+  "CureMethod": "By reducing inflammation and providing analgesic effects, which can ease menstrual cramps and discomfort",
+  "Price": "₹300 to ₹700 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5e96c8ea8e66e86f750"
+  },
+  "PlantName": "Ashoka",
+  "ScientificName": "Saraca asoca",
+  "Family": "Fabaceae",
+  "Habitat": "Plains and lower Himalayas",
+  "CultivationMethod": "Grows in deep, well-drained soil",
+  "TemperatureRange": "20°C to 30°C",
+  "PlantPart": "Leaf",
+  "Description": "lance-shaped with serrated edges",
+  "Disease": "Skin infections",
+  "DiseaseDescription": "Infections of skin",
+  "CureMethod": "Its antimicrobial, anti-inflammatory, and healing properties help in reducing inflammation, fighting bacteria, and promoting skin health",
+  "Price": "₹100 to ₹300 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac5fb6c8ea8e66e86f752"
+  },
+  "PlantName": "Neem",
+  "ScientificName": "Azadirachta indica",
+  "Family": "Meliaceae",
+  "Habitat": "Tropical & Subtropical",
+  "CultivationMethod": "Grows in well-drained soil, full sun",
+  "TemperatureRange": "21°C to 32°C",
+  "PlantPart": "Bark",
+  "Description": "rough, grayish-brown, and deeply fissured with a scaly texture",
+  "Disease": "Malaria",
+  "DiseaseDescription": "Parasitic disease transmitted by mosquitoes",
+  "CureMethod": "It works by having antimalarial properties that inhibit the growth of malaria-causing parasites and help reduce symptoms of the disease",
+  "Price": "₹200 to ₹500 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac60c6c8ea8e66e86f754"
+  },
+  "PlantName": "Neem",
+  "ScientificName": "Azadirachta indica",
+  "Family": "Meliaceae",
+  "Habitat": "Tropical & Subtropical",
+  "CultivationMethod": "Grows in well-drained soil, full sun",
+  "TemperatureRange": "21°C to 32°C",
+  "PlantPart": "Seed",
+  "Description": "hard, brown outer shell and a smooth, slightly oily interior",
+  "Disease": "Diabetes",
+  "DiseaseDescription": "body struggles to regulate blood sugar due to insufficient insulin",
+  "CureMethod": "They assist in regulating blood sugar levels by improving insulin sensitivity and reducing glucose absorption in the intestines due to their bioactive compounds",
+  "Price": "₹300 to ₹700 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac6176c8ea8e66e86f756"
+  },
+  "PlantName": "Neem",
+  "ScientificName": "Azadirachta indica",
+  "Family": "Meliaceae",
+  "Habitat": "Tropical & Subtropical",
+  "CultivationMethod": "Grows in well-drained soil, full sun",
+  "TemperatureRange": "21°C to 32°C",
+  "PlantPart": "Fruit",
+  "Description": "hard, wrinkled outer surface and a seed inside",
+  "Disease": "Coughs",
+  "DiseaseDescription": "reflex action involving forceful expulsion of air from the lungs",
+  "CureMethod": "It acts as a natural laxative, promoting bowel movements and improving digestive health due to its high fiber content and mild purgative properties",
+  "Price": "₹200 to ₹500 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac6246c8ea8e66e86f758"
+  },
+  "PlantName": "Bohera",
+  "ScientificName": "Terminalia bellirica",
+  "Family": "Combretaceae",
+  "Habitat": "Humid forests",
+  "CultivationMethod": "Requires deep, fertile soil",
+  "TemperatureRange": "15°C to 30°C",
+  "PlantPart": "Bark",
+  "Description": "rough, brown, and deeply fissured",
+  "Disease": "Diarrhea",
+  "DiseaseDescription": "frequent, loose, and watery bowel movements",
+  "CureMethod": "It has astringent properties that help reduce bowel movements and improve stool consistency",
+  "Price": "₹300 to ₹700 per kg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eac6356c8ea8e66e86f75a"
+  },
+  "PlantName": "Bohera",
+  "ScientificName": "Terminalia bellirica",
+  "Family": "Combretaceae",
+  "Habitat": "Humid forests",
+  "CultivationMethod": "Requires deep, fertile soil",
+  "TemperatureRange": "15°C to 30°C",
+  "PlantPart": "Fruit",
+  "Description": "hard, wrinkled outer surface and a seed inside",
+  "Disease": "Coughs",
+  "DiseaseDescription": "reflex action involving forceful expulsion of air from the lungs",
+  "CureMethod": "It acts as a natural laxative, promoting bowel movements and improving digestive health due to its high fiber content and mild purgative properties",
+  "Price": "₹200 to ₹500 per kg",
+  "__v": 0
+}]

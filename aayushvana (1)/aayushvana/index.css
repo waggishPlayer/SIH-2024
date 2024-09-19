@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Main{
+    width: 100%;
+    height: 100%;
+}
+.Navbar{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.Logo{
+    width: 169.65px;
+height: 28px;
+top: 23px;
+margin-left: 100px;
+gap: 0px;
+opacity: 0px;
+}
+.Filtericon img{
+    width:  44px;
+height: 42px;
+margin-top: 0px;
+margin-left: 200px;
+/* padding:  11px 10px 11px; */
+gap: 10px;
+/* border: 2px solid black;
+border-radius: 50%; */
+opacity: 0px;
+}
+.SearchBar{
+    display: flex;
+    flex-direction: row;
+}
+.Searchimg{
+    width: 332px;
+height: 126px;
+
+margin-left: 35px;
+gap: 0px;
+opacity: 0px;
+
+}
+.camera{
+    width: 44px;
+height: 42px;
+
+margin-left: 18px;
+
+gap: 10px;
+
+opacity: 0px;
+
+}
+.VR{
+    width: 62px;
+height: 14px;
+
+margin-left: 36px;
+gap: 0px;
+opacity: 0px;
+font-family: SF ;
+font-size: 12px;
+font-weight: 510;
+line-height: 14.32px;
+text-align: left;
+
+}
+.Blogs{
+    width: 33px;
+height: 14px;
+margin-left: 34px;
+gap: 0px;
+opacity: 0px;
+font-family: SF Pro;
+font-size: 12px;
+font-weight: 510;
+line-height: 14.32px;
+text-align: left;
+
+}
+.About{
+    width: 54px;
+height: 14px;
+top: 30px;
+margin-left: 34px;
+gap: 0px;
+opacity: 0px;
+font-family: SF Pro;
+font-size: 12px;
+font-weight: 510;
+line-height: 14.32px;
+text-align: left;
+
+}
+.Accounts{
+    width: 42px;
+height: 42px;
+top: 16px;
+margin-left: 100px;
+gap: 0px;
+opacity: 0px;
+
+}
+.MainContent{
+    display: flex;
+    flex-direction: row;
+}
+.plants {
+    width: 322px;
+height: 483px;
+margin-top: 87px;
+margin-left: 220px;
+gap: 0px;
+border-radius: 12px 0px 0px 0px;
+opacity: 0px;
+
+}
+.Leftcontent{
+    display: flex;
+    flex-direction: column;
+}
+.Rightcontent{
+    width: 514px;
+height: 674px;
+margin-top: 153px;
+margin-left: 97px;
+gap: 48px;
+opacity: 0px;
+
+}
+.Rightcontent .Heading{
+    width: 108px;
+height: 92px;
+top: 205px;
+left: 647px;
+gap: 0px;
+opacity: 0px;
+font-family: Molen;
+font-size: 64px;
+font-weight: 400;
+line-height: 92.03px;
+text-align: left;
+
+}
+.Properties{
+    display: flex;
+    gap: 60px;
+}
+.Introduction{
+    margin-top: 30px;
+}
+.Treatment{
+    margin-top: 30px;
+}
+.Contentsection{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.Treatment h1{
+    font-family: SF Pro;
+    font-size: 20px;
+    font-weight: 510px;
+    line-height: 23.87px;
+    text-align: left;
+    color: #9ABA34;
+    
+}
+.Contentsection span{
+    font-weight: 700px;
+    color: grey;
+}
+.Contentsection h2{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.Contentsection p {
+    margin-top: 7px;
+    font-size: 13px;
+color: gray;
+}
+.Featuresection{
+    margin-left: 60px;
+    margin-top: 80px;
+}
+.Featurecontent{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.Featurecard h3{
+    font-size: 28px;
+}
+.Featurecard h2{
+    font-size: 16px;
+    color: #9ABA34;
+}
+.Featurecard p{
+    font-size: 16px;
+}
+.Footersection{
+    background-color: rgb(70, 105, 51);
+    padding: 120px 60px;
+    margin-top: 100px;
+}
+.Footercontent{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-between;
+}
+.Leftfooter{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.Leftfooter h2{
+color: white;;
+}
+.Leftfooter p{
+    max-width: 300px;
+    color: white;
+    line-height: 20px;
+    letter-spacing: 1px;
+}
+.Socials{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.Rightfooter{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: white;
+}
+.input{
+    border: none;
+    border-radius: 40px; 
+    padding: 10px 20px;
+     height: 55px;
+     width: 210px;
+}
+.Inputemail{
+    margin-right: 100px;
+   
+}
+.Inputemail button{
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+    height: 45px;
+    width: 80px;
+    margin-left: 20px;
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
